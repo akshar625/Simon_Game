@@ -30,7 +30,7 @@ No installation is required to play the Simon Game. Simply open the "index.html"
 
 ## Hosted Link
 
-You can play the Simon Game online [here]([https://example.com](https://akshar625.github.io/Simon_Game/)).
+You can play the Simon Game online [here](https://example.com](https://akshar625.github.io/Simon_Game/).
 
 ## Usage
 
